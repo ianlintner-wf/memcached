@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER FENG, HONGLIN <hfeng@tutum.co>
+MAINTAINER Ian Lintner <ian.lintner@workiva.com>
 
 #install memcached
 RUN apt-get update && \
